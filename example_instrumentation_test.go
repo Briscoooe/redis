@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-redis/redis"
+	"github.com/Briscoooe/redis"
 )
 
 func Example_instrumentation() {

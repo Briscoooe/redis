@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-redis/redis/internal"
-	"github.com/go-redis/redis/internal/pool"
-	"github.com/go-redis/redis/internal/proto"
+	"github.com/Briscoooe/redis/internal"
+	"github.com/Briscoooe/redis/internal/pool"
+	"github.com/Briscoooe/redis/internal/proto"
 )
 
 type Cmder interface {
